@@ -29,11 +29,7 @@ Password: <b>limon123</b>
 
 <h3>Features</h3>
 <ul>
-  <li>Place Order<li>
-  <li>Update Order<li>
-  <li>Delete Order<li>
-  <li>User Regitration<li>
-  <li>View Hsitory</li>
+
 </ul>
 
 <h3>Screenshort</h3>
@@ -51,11 +47,6 @@ Password: <b>limon123</b>
 <img src="https://user-images.githubusercontent.com/15167039/45025455-5936a280-b05d-11e8-8c6f-97d359edbc42.png">
 
 <h3>Contact</h3>
-<a href="https://www.linkedin.com/in/smshakiblimon/">Linkedin</a><br>
-<a href="https://gitlab.com/shakiblimon">Gitlab</a><br>
+<a href="https://www.linkedin.com/in/smshakiblimon/">Linkedin</a> 
+<a href="https://gitlab.com/shakiblimon">Gitlab</a>
 <a href="https://github.com/shakiblimon">Github</a>
-
-
-
-
-

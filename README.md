@@ -29,6 +29,12 @@ Password: <b>limon123</b>
 
 <h3>Features</h3>
 <ul>
+<li>Place Order</li>
+<li>Update Order</li>
+<li>Delete Order</li>
+<li>User Regitration</li>
+<li>View Hsitory</li>
+<li>Email Verification</li>
 
 </ul>
 

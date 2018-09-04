@@ -1,1 +1,0 @@
-web: gunicorn i_love_coffee.wsgi --log-file -

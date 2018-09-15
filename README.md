@@ -32,7 +32,7 @@ Password: <b>limon123</b>
 <li>Place Order</li>
 <li>Update Order</li>
 <li>Delete Order</li>
-<li>User Regitration</li>
+<li>User Registration</li>
 <li>View Hsitory</li>
 <li>Email Verification</li>
 

@@ -2,7 +2,7 @@
 
 <h3>A RESTful Backend Coffee Shop application</h3>
 	<br>
-	<p>I have been trying to develop RESTful Backend Coffee Shop application. I have given the concept from Cricle Fintech Ltd  as a programming task, where a user registers his/her as a orderer. </p>
+	<p>I have been trying to develop RESTful Backend Coffee Shop application. I have given the concept from <b>Cricle FinTech Ltd</b> as a programming task, where a user registers his/her as a orderer. </p>
 	<br>
 	<p> After completing registration user can access or log into his/her account for placing order.Also User can update or cancel order within 15 minutes of placing the order.</p>
 	

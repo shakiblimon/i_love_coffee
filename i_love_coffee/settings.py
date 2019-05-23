@@ -94,7 +94,6 @@ WSGI_APPLICATION = 'i_love_coffee.wsgi.application'
 
 
 # Database
-# https://docs.djangoproject.com/en/2.1/ref/settings/#databases
 
 DATABASES = {
     'default': {
@@ -105,7 +104,6 @@ DATABASES = {
 
 
 # Password validation
-# https://docs.djangoproject.com/en/2.1/ref/settings/#auth-password-validators
 
 AUTH_PASSWORD_VALIDATORS = [
     {
@@ -152,9 +150,6 @@ import dj_database_url
 import django_heroku
 django_heroku.settings(locals())
 
-DATABASES = {
-    'default': dj_database_url.config(default='postgres://localhost')
-}
 
 SECURE_PROXY_SSL_HEADER = ('HTTP_X_FORWARDED_PROTO', 'https')
 
